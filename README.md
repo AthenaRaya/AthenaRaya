@@ -11,7 +11,7 @@
 
 ### Check oyt my website (here) or Linkdln for more information. 
 
-[![MastHead](https://)](http://www.athenaraya.com/)
+[![ScreenShot](images/screenshot.jpeg)](http://www.athenaraya.com/)
 
 # Hello there! 👋🏻 I am Athena! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
