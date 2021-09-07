@@ -1,6 +1,6 @@
  
 
-# Hello there!I am Athena🙋‍♀️! 
+# Hello there! I am Athena🙋‍♀️! 
 
 .
 
@@ -8,10 +8,10 @@
 
 ### Check out my website!☝️
 
-### I am recent graduate Spring 2021 with BS computer science and enthusiast in front-end development
- Currently open to fulltime  opportunities. 
- I love chanlleges and learning new developlment tool 
- Some fun facts: I love the out door activies such as hiking 🥾, swimming 🏊‍♀️, bike riding 🚴🏻‍♀️. I love trying new food 😋 and traveling.
+### I am a recent graduate of spring 2021 with a BS computer science
+ As an enthusiast in the front-end development space, I'm currently open to full-time opportunities. 
+ I love challenges and learning new development tool 
+ Some fun facts: I love outdoor activities such as hiking 🥾, swimming 🏊‍♀️, bike riding 🚴🏻‍♀️. I love trying new food 😋 and traveling.
  Dog lover at heart 🐶
 
 ### Languages and Tools:
