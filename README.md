@@ -1,23 +1,19 @@
-###Hi there, my name is Athena Raya 👋
+ 
 
-
-
-### I am recent graduate Spring 2021 with BS computer science with empasis in software engineering 
-
-### Currently seeking fulltime work in frontend development. 
-### I love chanlleges and learning new developlment tools
-### I am looking forward to work with the tech space with a company who goal is making a positive impact on current ..
-### Some fun facts/ hobbies of mine are I love the out door activies such as hiking, swimming, bikeriding and working out. I love trying new food and travel experiences. 
-
-### Check oyt my website (here) or Linkdln for more information. 
+### Check out my website.
 
 [![ScreenShot](images/screenshot.jpeg)](http://www.athenaraya.com/)
 
-# Hello there! 👋🏻 I am Athena! 
+# Hello there!I am Athena🙋‍♀️! 
 
-I am Athena Raya Front End Architect, Web Developer Evangelist.
+### I am recent graduate Spring 2021 with BS computer science and enthusiast in front-end development
+ Currently open to fulltime  opportunities. 
+ I love chanlleges and learning new developlment tool 
+ Some fun facts: I love the out door activies such as hiking 🥾, swimming 🏊‍♀️, bike riding 🚴🏻‍♀️. I love trying new food 😋 and traveling.
+ Dog lover at heart 🐶
 
 
+![dog](https://user-images.githubusercontent.com/15003357/132407195-f6230cde-a739-4054-aeb7-5dd2aa4803c8.gif )
 
 ## Connect with Me 🤝🏻
 
