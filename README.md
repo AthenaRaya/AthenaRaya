@@ -13,7 +13,7 @@
 
 [![ScreenShot](images/screenshot.jpeg)](http://www.athenaraya.com/)
 
-# Hello there! 👋🏻 I am Athena! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+# Hello there! 👋🏻 I am Athena! 
 
 I am Athena Raya Front End Architect, Web Developer Evangelist.
 
