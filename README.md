@@ -28,8 +28,7 @@
 ### Connect with Me🤝🏻
 <br>
 <br>
-[My website](https://www.athenaraya.com)
-[linkedin](https://www.linkedin.com/in/athenaraya)
+
 
 ![Dino](http://g.recordit.co/KDPfrQWkNn.gif)
 
