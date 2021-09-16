@@ -10,7 +10,8 @@
 
 ### I am a recent graduate of spring 2021 with a BS computer science
  As an enthusiast in the front-end development space, I'm currently open to full-time opportunities. 
- I love challenges and learning new development tool 
+ I love challenges and learning new development tools
+ 
  Some fun facts: I love outdoor activities such as hiking 🥾, swimming 🏊‍♀️, bike riding 🚴🏻‍♀️. I love trying new food 😋 and traveling.
  Dog lover at heart 🐶
 
